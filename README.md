@@ -1,12 +1,12 @@
-Food Cart - Using session bean![image](https://user-images.githubusercontent.com/117114012/214095120-e509bfca-376d-48f3-b02e-2d690fd63b3e.png)
+![image](https://user-images.githubusercontent.com/117114012/214095120-e509bfca-376d-48f3-b02e-2d690fd63b3e.png)
 
-[image](https://user-images.githubusercontent.com/117114012/214095230-083e1b8e-e458-4286-945a-72913d8f65e5.png)
+![image](https://user-images.githubusercontent.com/117114012/214095230-083e1b8e-e458-4286-945a-72913d8f65e5.png)
 The project is ideally a food cart web app in which one can order the food items that they want.
 This project eliminates the hassle of going out and buying food, instead one can order food at the tip of their finger.
 
 
 
-[image](https://user-images.githubusercontent.com/117114012/214095312-7949d044-b656-49f8-bf6f-eeb6bc75382e.png)
+![image](https://user-images.githubusercontent.com/117114012/214095312-7949d044-b656-49f8-bf6f-eeb6bc75382e.png)
 
 HTML,  JSP,  JavaScript,  Java are the languages used.
 
