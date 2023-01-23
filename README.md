@@ -69,7 +69,9 @@ In which, he/she can proceed to pay with their debit/credit cards.
 
 ![image](https://user-images.githubusercontent.com/117114012/214094817-cb6377a7-328c-4825-a5ab-10e6378c0d32.png)
 
-![image](https://user-images.githubusercontent.com/117114012/214100689-d449d279-112b-44cc-957d-4736bfb203a8.png)
+
+
+                                      THANKYOU
 
                                         
 
