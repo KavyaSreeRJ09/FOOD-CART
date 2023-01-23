@@ -1,13 +1,9 @@
-# FOOD-CART
-Online Ordering Application
-
 Food Cart 
 Using session bean![image](https://user-images.githubusercontent.com/117114012/214095120-e509bfca-376d-48f3-b02e-2d690fd63b3e.png)
 
 Problem statement![image](https://user-images.githubusercontent.com/117114012/214095230-083e1b8e-e458-4286-945a-72913d8f65e5.png)
 The project is ideally a food cart web app in which one can order the food items that they want.
 This project eliminates the hassle of going out and buying food, instead one can order food at the tip of their finger.
-![image](https://user-images.githubusercontent.com/117114012/214096186-ba360908-39de-4381-8beb-38548ddb6261.png)
 
 [image](https://user-images.githubusercontent.com/117114012/214095269-75ce7d64-8e83-43b7-bd5a-b048443ace0d.png)
 
@@ -17,7 +13,6 @@ HTML,  JSP,  JavaScript,  Java are the languages used.
 HTML and CSs are used for the frontend
 JSP,  JS,  Java are used for the back end
 The entire project is run on Eclipse
-![image](https://user-images.githubusercontent.com/117114012/214095353-cf87f1e6-5ce7-49c9-ba4d-828781adfbb3.png)
 
 
 ![image](https://user-images.githubusercontent.com/117114012/214093609-89c7a92f-7435-4996-9973-83f64633e209.png)
@@ -27,7 +22,6 @@ Customer
 Admin
 The admin side deals with the insertion and deletion of the food items.
 The Customer side deals with ordering of the food items.
-![image](https://user-images.githubusercontent.com/117114012/214094262-5b14f63e-e395-4d28-a95c-035f4e3f8c4f.png)
 
 ![image](https://user-images.githubusercontent.com/117114012/214094460-0f11b15f-adbf-444a-aba3-b4bc2e3f38e2.png)
 
@@ -35,7 +29,6 @@ Each side has a login page which is actually a session bean page.
 Then, the customer side has the register page.
 After that the customer is taken to the menu to order food.
 Meanwhile, the user is taken to a page where he/she is asked to insert or delete the food items.
-![image](https://user-images.githubusercontent.com/117114012/214094386-ac859300-5fbd-4edd-a2ca-4dab3e3c3943.png)
 
 ![image](https://user-images.githubusercontent.com/117114012/214094542-ff7c82e3-ad13-40d4-b1e1-3289e433b079.png)
 
@@ -46,7 +39,6 @@ Meanwhile, the user is taken to a page where he/she is asked to insert or delete
 The admin then chooses to delete or insert the food item
 Either so, he/she must give the id and name of the food items 
 So, when given it is deleted/ inserted
-![image](https://user-images.githubusercontent.com/117114012/214094660-9671762b-6968-4b0c-975d-8ba3700f1ede.png)
 
 ![image](https://user-images.githubusercontent.com/117114012/214094705-e0e33921-1805-4da6-b7c5-b3d3a14951f9.png)
 
@@ -54,9 +46,10 @@ So, when given it is deleted/ inserted
 
 So, in the customer page, after the food is ordered, the customer is taken to the payment page. 
 In which, he/she can proceed to pay with their debit/credit cards.
-![image](https://user-images.githubusercontent.com/117114012/214094783-6a9415b3-7fe6-40ab-a957-87a83550f721.png)
 
 ![image](https://user-images.githubusercontent.com/117114012/214094817-cb6377a7-328c-4825-a5ab-10e6378c0d32.png)
+
+                                        THANKYOU
 
 
 
