@@ -1,9 +1,13 @@
 # FOOD-CART
 Online Ordering Application
 
-Food Cartusing session bean![image](https://user-images.githubusercontent.com/117114012/214095120-e509bfca-376d-48f3-b02e-2d690fd63b3e.png)
+Food Cart 
+Using session bean![image](https://user-images.githubusercontent.com/117114012/214095120-e509bfca-376d-48f3-b02e-2d690fd63b3e.png)
 
 Problem statement![image](https://user-images.githubusercontent.com/117114012/214095230-083e1b8e-e458-4286-945a-72913d8f65e5.png)
+The project is ideally a food cart web app in which one can order the food items that they want.
+This project eliminates the hassle of going out and buying food, instead one can order food at the tip of their finger.
+![image](https://user-images.githubusercontent.com/117114012/214096186-ba360908-39de-4381-8beb-38548ddb6261.png)
 
 [image](https://user-images.githubusercontent.com/117114012/214095269-75ce7d64-8e83-43b7-bd5a-b048443ace0d.png)
 
@@ -55,7 +59,7 @@ In which, he/she can proceed to pay with their debit/credit cards.
 ![image](https://user-images.githubusercontent.com/117114012/214094817-cb6377a7-328c-4825-a5ab-10e6378c0d32.png)
 
 
-![image](https://user-images.githubusercontent.com/117114012/214094861-9283a11d-648b-4df3-9f18-64f05839625f.png)
+
 
 
 
